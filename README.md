@@ -1,4 +1,4 @@
-![My Intro](https://github.com/moreramonn/moreramonn/blob/main/intro.gif)
+![Hey there! I'm Mon.](https://github.com/moreramonn/moreramonn/blob/main/intro.gif)
 
 <!--
 **moreramonn/moreramonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
